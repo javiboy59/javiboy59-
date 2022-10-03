@@ -1,0 +1,38 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/ae.png" group-title="Peliculas", A&E HD
+http://go.iptvhn.net:25461/live/5860/5860/6479.m3u8
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/amc.png" group-title="Peliculas", AMC HD
+http://go.iptvhn.net:25461/live/5860/5860/6480.m3u8
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/axn.png" group-title="Peliculas", AXN HD
+http://go.iptvhn.net:25461/live/5860/5860/6481.m3u8
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/cinecanal.png" group-title="Peliculas", CINECANAL HD
+http://go.iptvhn.net:25461/live/5860/5860/6497.m3u8
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/starclassic.png" group-title="Peliculas", STAR CLASSICS HD
+http://go.iptvhn.net:25461/live/5860/5860/6613.m3u8
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/starcomedy.png" group-title="Peliculas", STAR COMEDY HD
+http://go.iptvhn.net:25461/live/5860/5860/6614.m3u8
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/starlife.png" group-title="Peliculas", STAR LIFE
+http://go.iptvhn.net:25461/live/5860/5860/6617.m3u8
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/starserie.png" group-title="Peliculas", STAR SERIES HD
+http://go.iptvhn.net:25461/live/5860/5860/6618.m3u8
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/tcm.png" group-title="Peliculas", TCM
+http://go.iptvhn.net:25461/live/5860/5860/6626.m3u8
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/tntseries.png" group-title="Peliculas", TNT Series HD
+http://go.iptvhn.net:25461/live/5860/5860/6632.m3u8
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/universal.png" group-title="Peliculas", Universal
+http://go.iptvhn.net:25461/live/5860/5860/6646.m3u8
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/warner.png" group-title="Peliculas", Warner Channel HD
+http://go.iptvhn.net:25461/live/5860/5860/6650.m3u
+
